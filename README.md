@@ -1,6 +1,6 @@
 # Responsive Price Card HTML-CSS
 
-### live demo here: <a href="https://adrianrafi.github.io/QR-Code-Component-Solutions-Frontend-Mentor/">Demo</a>
+### live demo here: <a href="https://adrianrafi.github.io/Price-Card-With-HTML-CSS/">Demo</a>
 
 
 ### Pc Preview
