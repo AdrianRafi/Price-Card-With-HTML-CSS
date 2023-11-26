@@ -1,4 +1,4 @@
-# Price Card HTML-CSS
+# Responsive Price Card HTML-CSS
 
 ### live demo here: <a href="https://adrianrafi.github.io/QR-Code-Component-Solutions-Frontend-Mentor/">Demo</a>
 
